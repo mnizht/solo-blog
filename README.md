@@ -10,6 +10,7 @@ zhuht 的个人博客
 
 ### 最新
 
+* [Python+Selenium 实现浏览器自动化操作](http://www.zhuht.xyz/articles/2019/12/09/1575887883655.html)
 * [Java list数据类型组成tree](http://www.zhuht.xyz/articles/2019/12/04/1575446144756.html)
 * [Docker中的MySQL备份数据](http://www.zhuht.xyz/articles/2019/08/29/1567066379578.html)
 * [Debain10 系统安装Docker并部署MySQL+solo+Nginx](http://www.zhuht.xyz/articles/2019/08/29/1567060521401.html)
